@@ -1,6 +1,6 @@
 # Update Procedures
 
-This document outlines the maintainers and update procedures to suggest and innitiate changes to the GA4GH Researcher Identities & Access Claims [specifications](http://bit.ly/ga4gh-ri-v1) and documentation.
+This document outlines the maintainers and update procedures to suggest and initiate changes to the GA4GH Researcher Identities & Access Claims [specifications](http://bit.ly/ga4gh-ri-v1) and documentation.
 
 ## Specification maintainers
 
@@ -18,7 +18,7 @@ This document outlines the maintainers and update procedures to suggest and inni
 
 The GA4GH Researcher Identities & Access Claims standard is established by members of the Data Use and Research Indentities (DURI) work stream. 
 
-To suggest or innitiate changes to the [specifications](http://bit.ly/ga4gh-ri-v1) please first contact the specification maintainers.
+To suggest or initiate changes to the [specifications](http://bit.ly/ga4gh-ri-v1) please first contact the specification maintainers.
 
 Prior to recommending changes please:
   * refer to the [landing page](https://github.com/ga4gh-duri/ga4gh-duri.github.io/tree/master/researcher_ids) for additional information about the purpose and use of the standard.
